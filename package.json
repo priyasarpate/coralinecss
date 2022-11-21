@@ -1,0 +1,12 @@
+{
+  "name": "CoralineCSS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "sass --watch src/coraline.scss:dist/coraline.css"
+  },
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
